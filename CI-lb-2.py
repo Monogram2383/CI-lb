@@ -221,3 +221,5 @@ if __name__ == '__main__':
     plt.title(f"Time needed comparison elitism={allow_elitism}")
     plt.legend()
     plt.show()
+
+# TODO: add additional comments
